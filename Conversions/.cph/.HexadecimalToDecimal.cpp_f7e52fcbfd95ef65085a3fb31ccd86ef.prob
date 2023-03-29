@@ -1,0 +1,1 @@
+{"name":"Local: HexadecimalToDecimal","url":"c:\\Users\\LENOVO\\Desktop\\DSA\\Conversions\\HexadecimalToDecimal.cpp","tests":[{"id":1679723156557,"input":"FF","output":"1919"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\LENOVO\\Desktop\\DSA\\Conversions\\HexadecimalToDecimal.cpp","group":"local","local":true}

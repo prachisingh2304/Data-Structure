@@ -1,0 +1,1 @@
+{"name":"Local: subarray_with_givensum","url":"c:\\Users\\LENOVO\\Desktop\\DSA\\Array\\subarray_with_givensum.cpp","tests":[{"id":1679631961841,"input":"5 12\n1 2 3 7 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\LENOVO\\Desktop\\DSA\\Array\\subarray_with_givensum.cpp","group":"local","local":true}

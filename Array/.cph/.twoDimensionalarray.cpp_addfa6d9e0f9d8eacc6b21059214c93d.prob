@@ -1,0 +1,1 @@
+{"name":"Local: twoDimensionalarray","url":"c:\\Users\\LENOVO\\Desktop\\DSA\\Array\\twoDimensionalarray.cpp","tests":[{"id":1679979687205,"input":"3 3\n1 2 3\n2 3 4\n3 4 8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\LENOVO\\Desktop\\DSA\\Array\\twoDimensionalarray.cpp","group":"local","local":true}
